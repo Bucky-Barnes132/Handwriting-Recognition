@@ -58,6 +58,7 @@ In convolution we take a feature matrix (filter) and slide that matrix over the 
 
 ![untitled7](https://user-images.githubusercontent.com/40590365/50977550-8b2ea880-1518-11e9-8779-b5b4015d7036.jpg)
 
+
 **Pooling**
 The pooling reduces the size of the image by picking the highest number generated from the convolution of filter and the input image (convoluted feature). We take a window size of 2x2 and slide it over the convoluted feature.
   
