@@ -16,4 +16,13 @@ I have researched on Neural Network model, a model which was inspired from the n
 
 What is SVM?
 
-A Support Vector Machine (SVM) is a supervised machine learning algorithm which can be used for both classification and regression problem. But it is mostly used for classification purpose. Let’s say we have given 2 or more labeled classes of data, a SVM classifies those different classes by drawing an optimal hyperplane that separates all the classes. A hyperplane is drawn in such a way that it is at a midpoint between the classes. A hyperplane is a linear decision surface that splits the space into two parts.
+A Support Vector Machine (SVM) is a supervised machine learning algorithm which can be used for both classification and regression problem. But it is mostly used for classification purpose. Let’s say we have given 2 or more labeled classes of data, a SVM classifies those different classes by drawing an optimal hyperplane that separates all the classes.
+
+![untitled](https://user-images.githubusercontent.com/40590365/50976999-4c4c2300-1517-11e9-8443-c2a05d82f699.jpg)
+
+
+
+
+
+
+A hyperplane is drawn in such a way that it is at a midpoint between the classes. A hyperplane is a linear decision surface that splits the space into two parts.
